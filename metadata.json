@@ -1,0 +1,8 @@
+{
+  "name": "StockMaster Inventory",
+  "description": "App de inventário de estoque com múltiplas contagens e validação de endereço.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
